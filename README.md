@@ -54,7 +54,7 @@
 - Responsive and modern UI  
 - Deployed on Vercel  
 
-### 🎵 Spotify Clone (Vanilla JavaScript)
+### 🎵 Spotify Clone (JavaScript)
 - Single-page music UI  
 - DOM manipulation & audio controls  
 - Responsive layout  
