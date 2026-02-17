@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | React.js | JavaScript | Aspiring Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahul-git-web&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=rahul-git-web&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 ### ✅ Technologies I Have Learned
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" alt="Tech Stack" />
 </p>
 
 - HTML5  
@@ -37,7 +37,7 @@
 ### 📚 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" alt="Learning Stack" />
 </p>
 
 - Node.js  
@@ -64,27 +64,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-git-web&show_icons=true&theme=radical&cache_seconds=1800" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Rahul-git-web&theme=radical&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-git-web&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-git-web&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
-
-
-
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rahul-yadav-713862306">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/rahul-yadav-713862306" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://your-vercel-link.vercel.app">
-  <img src="https://skillicons.dev/icons?i=vercel" />
+<a href="mailto:rahulwebdev4@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
 </p>
 
-📧 rahulwebdev4@gmail.com  
+<p align="center">
+  📧 rahulwebdev4@gmail.com
+</p>  
 
 
 
