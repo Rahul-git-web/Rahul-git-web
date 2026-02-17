@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;React.js+%E2%9A%9B%EF%B8%8F+Developer;JavaScript+Expert+%E2%9C%A8;Aspiring+Full+Stack+Dev+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 <h3 align="center">Frontend Developer | React.js | JavaScript | Aspiring Full Stack Developer</h3>
 
 <p align="center">
