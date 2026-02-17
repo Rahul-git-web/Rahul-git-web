@@ -2,44 +2,56 @@
 <h3 align="center">Frontend Developer | React.js | JavaScript | Aspiring Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahul-git-web&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Rahul-git-web&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 💻 Frontend Developer building responsive web applications  
-- ⚛️ Experienced in React.js and modern JavaScript  
-- 🌱 Currently learning Full Stack Development (Node.js, Express.js, MySQL)  
-- 🎯 Goal: Become a professional Full Stack Developer  
+- ⚛️ Strong foundation in React.js and modern JavaScript  
+- 🌱 Currently expanding into Backend Development  
+- 🎯 Goal: Become a Full Stack Developer  
 - 📍 India  
 
 ---
 
 ## 🛠 Tech Stack
 
+### ✅ Technologies I Have Learned
+
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
 </p>
+
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React.js  
+- Git & GitHub  
+- Responsive Design (Flexbox & Grid)
+
+---
+
+### 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+</p>
+
+- Node.js  
+- Express.js  
+- MySQL  
+- Backend API Development  
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🌐 Portfolio Website (React)
-- Component-based architecture  
-- Responsive modern UI  
+- Built using React.js (component-based architecture)  
+- Responsive and modern UI  
 - Deployed on Vercel  
 
 ### 🎵 Spotify Clone (Vanilla JavaScript)
@@ -72,7 +84,10 @@
 </a>
 </p>
 
-📧 rahulwebdev4@gmail.com
+📧 rahulwebdev4@gmail.com  
+
+
+
 
 
 
