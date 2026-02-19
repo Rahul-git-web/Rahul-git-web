@@ -24,32 +24,32 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 
-### ✅ Technologies I Have Learned
+### ✅ Technologies I Have Learned  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" alt="Tech Stack" />
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,mysql" alt="Tech Stack" />  
 </p>
 
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)  
 - React.js  
+- MySQL  
 - Git & GitHub  
-- Responsive Design (Flexbox & Grid)
+- Responsive Design (Flexbox & Grid)  
 
 ---
 
-### 📚 Currently Learning
+### 📚 Currently Learning  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" alt="Learning Stack" />
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Learning Stack" />  
 </p>
 
 - Node.js  
 - Express.js  
-- MySQL  
 - Backend API Development  
 
 ---
