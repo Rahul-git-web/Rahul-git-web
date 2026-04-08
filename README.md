@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React.js+Specialist;JavaScript+Developer+%7C+Problem+Solver;Aspiring+Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 </h3>
 
-<h3 align="center">Full Stack Developer | React.js | JavaScript | Full Stack Developer</h3>
+<h3 align="center">React.js | Node.js | MongoDB | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahul-git-web&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
