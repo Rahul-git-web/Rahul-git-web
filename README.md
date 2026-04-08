@@ -49,13 +49,13 @@
 ### 📚 Currently Learning  
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=redux,typescript" alt="Learning Stack" />  
+  <img src="https://skillicons.dev/icons?i=redux,nextjs" alt="Learning Stack" />  
 </p>
 
 - Advanced Backend Development  
 - Authentication & Authorization (JWT, OAuth)  
 - State Management (Redux)  
-- TypeScript   
+- Next.js    
 
 ---
 
