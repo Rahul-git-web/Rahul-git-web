@@ -29,28 +29,33 @@
 ### ✅ Technologies I Have Learned  
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,mysql" alt="Tech Stack" />  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,mysql" alt="Tech Stack" />  
 </p>
 
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)  
 - React.js  
+- Node.js  
+- Express.js  
+- MongoDB  
+- JWT Authentication  
 - MySQL  
 - Git & GitHub  
-- Responsive Design (Flexbox & Grid)  
+- Responsive Design (Flexbox & Grid)   
 
 ---
 
 ### 📚 Currently Learning  
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Learning Stack" />  
+  <img src="https://skillicons.dev/icons?i=redux,typescript" alt="Learning Stack" />  
 </p>
 
-- Node.js  
-- Express.js  
-- Backend API Development  
+- Advanced Backend Development  
+- Authentication & Authorization (JWT, OAuth)  
+- State Management (Redux)  
+- TypeScript   
 
 ---
 
