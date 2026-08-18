@@ -19,6 +19,7 @@
 - 💻 Full Stack Developer building responsive and production-focused web applications
 - ⚛️ Strong foundation in React.js, JavaScript, Next.js and Tailwind CSS
 - 🛠️ Building backend APIs and business systems with Node.js, Express.js and MongoDB
+- 🧪 Experienced in API development and testing with Postman
 - 🖥️ Working with Electron for desktop application development
 - ⚙️ Working with C#/.NET and Windows UI Automation for browser-based time tracking
 - 🚀 Currently building and improving **WorkComposer**, a workforce productivity and time-tracking platform
@@ -101,6 +102,20 @@
 - node-cron
 - date-fns / timezone utilities
 
+### 🧪 API Development & Testing
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+</p>
+
+- **Postman** — primary tool used for REST API development and testing
+- Testing authentication and authorization flows
+- Testing protected endpoints and Bearer-token requests
+- Testing request/response payloads
+- Testing CRUD APIs and backend controllers
+- Testing API error handling and edge cases
+- Verifying integrations and backend changes during development
+
 ### 🖥️ Desktop & Automation
 
 <p align="center">
@@ -167,7 +182,7 @@
 - Vercel
 - npm
 - PowerShell
-- Postman / API testing
+- **Postman** for API development and testing
 
 ---
 
@@ -185,6 +200,7 @@
 - MongoDB / Mongoose
 - MySQL
 - REST API development
+- **Postman API testing**
 - JWT / OAuth authentication
 - Socket.IO
 - Electron
